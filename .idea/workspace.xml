@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b940ed4-48d0-4463-b851-1028e5ce56e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/OOP_Python_learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/1_Вложенные функции/color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/1_Вложенные функции/def_calculate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/2_Замыкания/def_create_accumulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/2_Замыкания/def_create_accumulatorv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/2_Замыкания/def_create_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/2_Замыкания/def_multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/2_Замыкания/Пробное замыкание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/3_Декоратоы/@double_it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/3_Декоратоы/@repeater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/3_Декоратоы/@text_decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0_Закрепление пройденного материала/3_Декоратоы/chek_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,1_Classes,objects,class_instances/Class_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,1_Classes,objects,class_instances/Empty_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,1_Classes,objects,class_instances/Empty_class_animals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_Cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_book_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_book_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_book_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_book_v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/Class_empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,2_Attributes_of_class/def_hasattr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,3_Attributes_of_class_instance/Class_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Introduction to classes/1,3_Attributes_of_class_instance/Class_superhero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,10_Class namespace/Class_BankAccount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,10_Class namespace/Class_Robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,10_Class namespace/Class_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_File part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_Registration part 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_Registration part 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Market_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Market_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Market_Part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/easy_passwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,1_Instance_methods_Argument_self/Class_Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,1_Instance_methods_Argument_self/Class_Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,1_Instance_methods_Argument_self/Class_Robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,1_Instance_methods_Argument_self/Class_RobotV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,1_Instance_methods_Argument_self/Class_point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,1_Instance_methods_Argument_self/class_Lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_Laptop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_Personv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_SoccerPlayer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_Vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_Zebra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_CustomLabel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_Worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Many_Classes_V1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/app_Task_accounting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/class_Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,4_Monostate_for_class_instances/Class_WeatherStation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,5_Public,private,protected_attributes_and_methods/Class_AverageCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,5_Public,private,protected_attributes_and_methods/Class_BankDeposit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,5_Public,private,protected_attributes_and_methods/Class_Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,5_Public,private,protected_attributes_and_methods/Class_Library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,5_Public,private,protected_attributes_and_methods/Class_PizzaMaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,5_Public,private,protected_attributes_and_methods/Class_Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,6_Getters_and_setters,property_attribut/Class_BankAccount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,6_Getters_and_setters,property_attribut/Class_Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,6_Getters_and_setters,property_attribut/Class_UserMail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,7_Decorator_property/Class_Celsius.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,7_Decorator_property/Class_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,7_Decorator_property/Class_Money.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,7_Decorator_property/Class_Notebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,8_Computed_properties/Class_Date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,8_Computed_properties/Class_Password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,8_Computed_properties/Class_Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,9_Classmethod_and_staticmethod/Class_AppConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,9_Classmethod_and_staticmethod/Class_Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,9_Classmethod_and_staticmethod/Class_RobotVacuumCleaner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,9_Classmethod_and_staticmethod/Class_TemperatureConverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Methods and properties/2,9_Classmethod_and_staticmethod/app_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,1_Methods __str__ and __repr__/Class_GroceryItem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,1_Methods __str__ and __repr__/Class_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,1_Methods __str__ and __repr__/Class_Vector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,2_Magic methods __len__ and __abs__/Class_Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,3 Magic methods __add__, __mul__, __sub__ and __truediv_/Class Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,3 Magic methods __add__, __mul__, __sub__ and __truediv_/Class_Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,3 Magic methods __add__, __mul__, __sub__ and __truediv_/Class_Vector_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,4 Special methods for comparing class objects/Class_ChessPlayer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,4 Special methods for comparing class objects/Class_Fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Magic_metods/4,4 Special methods for comparing class objects/Class_Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boomber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bX2gpoY1kYgoTKDWZ9uo3kT7j9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.@double_it.executor": "Run",
+    "Python.@repeater.executor": "Run",
+    "Python.@text_decor.executor": "Run",
+    "Python.Class Order.executor": "Debug",
+    "Python.Class_AppConfig.executor": "Run",
+    "Python.Class_BankAccount.executor": "Run",
+    "Python.Class_Celsius.executor": "Run",
+    "Python.Class_ChessPlayer.executor": "Debug",
+    "Python.Class_Circle.executor": "Run",
+    "Python.Class_Constructor.executor": "Debug",
+    "Python.Class_Counter.executor": "Run",
+    "Python.Class_CustomLabel.executor": "Run",
+    "Python.Class_File part 2.executor": "Run",
+    "Python.Class_File.executor": "Run",
+    "Python.Class_Fruit.executor": "Debug",
+    "Python.Class_GroceryItem.executor": "Run",
+    "Python.Class_Hero.executor": "Debug",
+    "Python.Class_Library.executor": "Run",
+    "Python.Class_Money.executor": "Run",
+    "Python.Class_Notebook.executor": "Run",
+    "Python.Class_Numbers.executor": "Run",
+    "Python.Class_Personv2.executor": "Run",
+    "Python.Class_PizzaMaker.executor": "Run",
+    "Python.Class_Rectangle.executor": "Run",
+    "Python.Class_Registration part 2.executor": "Debug",
+    "Python.Class_Registration.executor": "Run",
+    "Python.Class_RobotVacuumCleaner.executor": "Run",
+    "Python.Class_SoccerPlayer.executor": "Debug",
+    "Python.Class_Student.executor": "Run",
+    "Python.Class_TemperatureConverter.executor": "Debug",
+    "Python.Class_User.executor": "Run",
+    "Python.Class_Vector.executor": "Run",
+    "Python.Class_Vector_2.executor": "Run",
+    "Python.Class_WeatherStation.executor": "Run",
+    "Python.Class_Worker.executor": "Run",
+    "Python.Class_book.executor": "Run",
+    "Python.Class_point.executor": "Run",
+    "Python.Many_Classes_V1.executor": "Run",
+    "Python.Market_Part3.executor": "Run",
+    "Python.app_Task_accounting.executor": "Run",
+    "Python.chek_time.executor": "Run",
+    "Python.class_Lion.executor": "Run",
+    "Python.class_Stack.executor": "Run",
+    "Python.color.executor": "Run",
+    "Python.def_calculate.executor": "Run",
+    "Python.def_create_accumulator.executor": "Run",
+    "Python.def_multiply.executor": "Run",
+    "Python.test.executor": "Debug",
+    "Python.Пробное замыкание.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Женя\Desktop\Project\OOP_Python_learning\4_Magic_metods\Methods __str__ and __repr__" />
+      <recent name="C:\Users\Женя\Desktop\Project\OOP_Python_learning\2_Methods and properties\2,11 Practice on methods and properties (property)" />
+      <recent name="C:\Users\Женя\Desktop\Project\OOP_Python_learning\1_Закрепление пройденного материала\2_Вложенные функции" />
+      <recent name="C:\Users\Женя\Desktop\Project\OOP_Python_learning\Introduction to classes\1,1_Classes,objects,class_instances" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b940ed4-48d0-4463-b851-1028e5ce56e6" name="Changes" comment="" />
+      <created>1706347217326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706347217326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,2_Object_initialization_init_method/Class_Personv2.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/Class_Numbers.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,3_Practice_Creating_a_class_and_its_methods/class_Stack.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0_Закрепление пройденного материала/1_Вложенные функции/color.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,7_Decorator_property/Class_Money.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,9_Classmethod_and_staticmethod/Class_TemperatureConverter.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,10_Class namespace/Class_User.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/test.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_Registration part 2.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_File.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Class_File part 2.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2_Methods and properties/2,11 Practice on methods and properties (property)/Market_Part3.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,1_Methods __str__ and __repr__/Class_Vector.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,1_Methods __str__ and __repr__/Class_GroceryItem.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,2_Magic methods __len__ and __abs__/Class_Hero.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,3 Magic methods __add__, __mul__, __sub__ and __truediv_/Class Order.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,3 Magic methods __add__, __mul__, __sub__ and __truediv_/Class_Vector_2.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,4 Special methods for comparing class objects/Class_Fruit.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_Magic_metods/4,4 Special methods for comparing class objects/Class_ChessPlayer.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
